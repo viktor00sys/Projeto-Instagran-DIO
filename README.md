@@ -1,2 +1,2 @@
 # Projeto-Instagran-DIO
-Projeto de recriação da landing pagr do Intagran 
+Projeto de recriação da landing page do Intagran 
